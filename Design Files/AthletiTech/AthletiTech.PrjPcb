@@ -66,23 +66,6 @@ GenerateClassCluster=0
 DocumentUniqueId=WPQKYFTG
 
 [Document2]
-DocumentPath=Charger_Sheet.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MJLNJQGJ
-
-[Document3]
 DocumentPath=MCU_Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -99,14 +82,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=COWMFIRD
 
-[Document4]
+[Document3]
 DocumentPath=UWB_Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=4
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -116,7 +99,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AOOKVDBR
 
-[Document5]
+[Document4]
 DocumentPath=IMU_Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -133,31 +116,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TDEBHKVL
 
-[Document6]
-DocumentPath=MAGNETO_Sheet.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=EYJKABFD
-
-[Document7]
+[Document5]
 DocumentPath=GPS_Sheet.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=6
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
